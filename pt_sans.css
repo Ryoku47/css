@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'pt_sansbold';
+    src: url('pt_sans-web-bold-webfont.woff2') format('woff2'),
+         url('pt_sans-web-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pt_sansbold_italic';
+    src: url('pt_sans-web-bolditalic-webfont.woff2') format('woff2'),
+         url('pt_sans-web-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pt_sansitalic';
+    src: url('pt_sans-web-italic-webfont.woff2') format('woff2'),
+         url('pt_sans-web-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url('https://fonts.gstatic.com/s/ptsans/v10/jizaRExUiTo99u79D0-ExdGM.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
