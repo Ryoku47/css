@@ -451,7 +451,7 @@ body.dark .panel-deleted>.panel-heading{
         display:none
     }
     .table-responsive>.table>tbody>tr>td:nth-of-type(2){
-        white-space:pre;
+        white-space:nowrap;
         word-break:break-all
     }
     .container{
