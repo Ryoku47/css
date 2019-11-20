@@ -437,7 +437,7 @@ body.dark .panel-deleted>.panel-heading{
 }
 @media(max-width:991px){
     .panel-body .col-md-5{
-        margin-left:20px;
+        margin-left:70px;
         margin-bottom:10px
     }
     #navFilter-criteria>.bootstrap-select:first-child>button{
