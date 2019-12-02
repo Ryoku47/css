@@ -451,7 +451,7 @@ body.dark .panel-deleted>.panel-heading{
         display:none
     }
     .table-responsive>.table>tbody>tr>td:nth-of-type(2){
-        white-space:nowrap;
+        white-space:unset;
         word-break:break-all
     }
     .container{
@@ -491,7 +491,7 @@ blockquote{
     font-size:inherit
 }
 @media(max-width:767px){
-    .hdr-size,.hdr-date,.hdr-downloads,table.torrent-list>tbody>tr>td:nth-child(4),table.torrent-list>tbody>tr>td:nth-child(5),table.torrent-list>tbody>tr>td:nth-child(8){
+    .hdr-size,.hdr-date,.hdr-downloads{
         display:none
     }
     table.torrent-list>tbody>tr>td:nth-child(7){
