@@ -517,8 +517,4 @@ blockquote{
     table.torrent-list>tbody>tr>td:first-child{
         overflow:hidden
     }
-    table.torrent-list>tbody>tr>td:first-child img{
-        width:50px;
-        height:auto
-    }
 }
